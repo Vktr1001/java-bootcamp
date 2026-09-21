@@ -4,11 +4,11 @@ def addmultiplenumbers(numbers) :
 def multiplymultiplenumbers(numbers) :
     pass
 
-def iseven(num) :
-    pass
+def isiteven(num) :
+    return float(num) .is_integer() and num % 2 == 0
 
-def isitainteger(num) :
-    pass
+def isitaninteger(num) :
+    return float(num) .is_integer()
 
 def main() :
     pass
