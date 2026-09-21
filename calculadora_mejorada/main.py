@@ -1,5 +1,5 @@
-def addmultiplenumbers(numbers) :
-    pass
+def addmultiplenumbers(*numbers) :
+    return sum(numbers)
 
 def multiplymultiplenumbers(numbers) :
     pass
